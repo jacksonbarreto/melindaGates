@@ -24,3 +24,17 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+@font-face {
+    font-family: 'Trajan';
+    src: url('./assets/fonts/Trajan\ Pro\ Regular.ttf');
+}
+@font-face {
+    font-family: 'GaramondItalic';
+    src: url('./assets/fonts/Garamond\ Classico\ Italic.ttf');
+}
+
+@font-face {
+    font-family: 'Garamond';
+    src: url('./assets/fonts/Classical\ Garamond\ Regular.otf');
+}
